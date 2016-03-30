@@ -79,6 +79,12 @@ nav a {
   padding: 24px 12px;
   display: inline-block;
 }
+[fb] {
+  padding: 10px 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
 [icon] {
   font-size: 72px;
   position: fixed;
